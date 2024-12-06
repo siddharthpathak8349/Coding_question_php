@@ -1,0 +1,1 @@
+-- An index in SQL is a  object that improves the speed of data retrieval operations.
